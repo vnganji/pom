@@ -17,7 +17,7 @@ import Way2AutomationPages.homePage;
 public class seleniumeasy extends baseTestClass {
 
 	
-	@aboutTest(desc = "demotest3", almid = "12378")
+	@aboutTest(desc = "googleproject", almid = "12378")
 	@Test(enabled = true,groups={"smoke"})
 	public void test3() throws IOException  {
 
