@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5945" started-at="2021-04-04T14:13:07Z" finished-at="2021-04-04T14:13:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5945" started-at="2021-04-04T14:13:07Z" finished-at="2021-04-04T14:13:13Z">
+      <class name="demoTests.demoClasstest">
+        <test-method status="PASS" signature="intilizer(java.lang.String)[pri:0, instance:demoTests.demoClasstest@614c5515]" name="intilizer" is-config="true" duration-ms="10148" started-at="2021-04-04T14:12:57Z" finished-at="2021-04-04T14:13:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intilizer -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:demoTests.demoClasstest@614c5515]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2021-04-04T14:13:07Z" finished-at="2021-04-04T14:13:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void demoTests.demoClasstest.test3() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:demoTests.demoClasstest@614c5515]" name="test3" duration-ms="5827" started-at="2021-04-04T14:13:07Z" finished-at="2021-04-04T14:13:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demoTests.demoClasstest@614c5515]" name="tearDown" is-config="true" duration-ms="2194" started-at="2021-04-04T14:13:13Z" finished-at="2021-04-04T14:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demoTests.demoClasstest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
